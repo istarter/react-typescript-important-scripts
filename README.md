@@ -221,7 +221,7 @@ export default function Demo({}: DemoProps) {
 
 
 ### useReducer 
-
+The useReducer hook is a powerful feature in React for managing complex state logic in your components. It's particularly useful when you have multiple sub-values in a state or when the next state depends on the previous one. Let's walk through it step by step.
 
 ```
 import { useReducer } from 'react';
